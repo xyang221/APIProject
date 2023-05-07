@@ -1,2 +1,0 @@
-# APIProject
-midterm project
